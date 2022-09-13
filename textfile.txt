@@ -1,4 +1,4 @@
 add first string
-add second string
+add second string   change second string
 add third string
 add fourth string
